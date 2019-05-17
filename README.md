@@ -15,9 +15,4 @@ gtx 1060:
 | yolov3      | 1          | 416x416    | 25ms           |
 | yolov3-tiny | 1          | 608x608    | 7ms            |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
