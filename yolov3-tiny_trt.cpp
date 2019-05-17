@@ -585,6 +585,4 @@ int main(int argc, char** argv)
 	doInferenceFrieza(trtModelStream, fileNames);
 
 	return 0;
-
-
 }
