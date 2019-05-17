@@ -10,7 +10,7 @@ vs2017
 ## performance  
 gtx 1060:  
 | model | batch size | input size | inference time |  
-| - | :-: | -: |
+| :-: | :-: | :-: | :-: |
 | yolov3 | 1 | 416x416 | 25ms | 
 | yolov3-tiny | 1 | 608x608 | 7ms |
 
