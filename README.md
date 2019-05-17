@@ -9,8 +9,8 @@ tensorrt5.1.5.0
 vs2017  
 ## performance  
 gtx 1060:  
-|model|batch size|input size|inference time|  
-|-|:-:|-:|  
-|yolov3|1|416x416|25ms|  
+|model|batch size|input size|inference time| 
+|-|:-:|-:|
+|yolov3|1|416x416|25ms|
 |yolov3-tiny|1|608x608|7ms|
 
